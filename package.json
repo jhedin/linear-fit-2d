@@ -1,0 +1,19 @@
+{
+  "name": "ransac-linear-fit-2d",
+  "version": "1.0.0",
+  "description": "2d linear fit for node-ransac",
+  "main": "ransac-linear-fit-2d-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhedin/ransac-linear-fit-2d.git"
+  },
+  "author": "James Hedin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhedin/ransac-linear-fit-2d/issues"
+  },
+  "homepage": "https://github.com/jhedin/ransac-linear-fit-2d#readme"
+}
